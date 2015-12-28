@@ -1,0 +1,1 @@
+fbxbmc is a pictures plugin for XBMC that allow connecting to Facebook® within XBMC interface and displaying photos from your albums & your friends albums.

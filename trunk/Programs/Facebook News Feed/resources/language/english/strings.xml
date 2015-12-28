@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30000">Facebook - News Feed</string>
+	<!-- settings -->
+	<string id="30001">Session Key</string>
+	<string id="30002">Facebook UserId</string>
+	<string id="30003">Facebook Username</string>
+	<string id="30004">Password</string>
+	<string id="30005">API Key (DON'T CHANGE)</string>
+	<string id="30006">Secret Key (DON'T CHANGE)</string>
+	
+	<!-- application -->
+	<string id="30010">Welcome to Facebook News Feed Plugin</string>
+	<string id="30011">Please login to facebook in your browser, when done click OK</string>
+	<string id="30012">Facebook Error number %s:</string>
+	<string id="30013">XBMC needs an extended permission to access your news feed</string>
+	<string id="30014">Please allow that permission in the opened browser</string>
+	<string id="30015">and click OK to continue</string>
+	<string id="30016">Creating Authontication Token</string>
+	<string id="30017">Login to Facebook</string>
+	<string id="30018">Requesting session ID</string>
+	<string id="30019">Saving session ID</string>
+	<string id="30020">Trying to Login with previous session ID</string>
+	<string id="30021">Querying News Feed from Facebook</string>
+	<string id="30022">Loading News Feed</string>
+	<string id="30023">Playing Video "%s"</string>
+	<string id="30024">Getting movie information from YouTube</string>
+
+</strings>

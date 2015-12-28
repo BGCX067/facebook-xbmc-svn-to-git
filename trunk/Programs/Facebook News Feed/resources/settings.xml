@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="username" type="text" label="30003" default="" />
+    <setting id="password" type="text" option="hidden" label="30004" enable="!eq(-1,)" default="" />  
+    <setting type="sep" />
+    <setting id="session_key" type="text" label="30001" default="" />
+    <setting id="uid" type="text" label="30002" default="" />
+    <setting id="api_key" type="text" label="30005" default="dfca744508d00e5e509e64dfae9d9d3a" />
+    <setting id="secret_key" type="text" label="30006" default="9defe83fbcaf83ddc169984ae515aa12" />
+</settings>
